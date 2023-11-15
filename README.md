@@ -1,2 +1,2 @@
 # Food-Website
-A simple single page food website by using concepts of bootstrap  
+A simple single page responsive food website by using concepts of bootstrap  
